@@ -9,6 +9,12 @@ The Kit can Drag and Drop an object.
  BP_ARPawn
  
  * Blueprint *
+ BP_Placeable - Static Mesh can be import here. This is where most of the work is done.
+ 
+ ![90A5A30A-D8AC-4BA5-B3D3-5B636C885F6D_1_105_c](https://user-images.githubusercontent.com/64766737/83375755-e5305680-a40a-11ea-9328-19e27b555da3.jpeg)
+
+ ![F38AF5D1-E280-4803-B8AA-E4D8E75C7A97_1_105_c](https://user-images.githubusercontent.com/64766737/83375387-af3ea280-a409-11ea-8728-a5161724da90.jpeg)
+ 
 ![23D5C097-AD1D-4EFA-AA1C-E092C4BD177C_1_105_c](https://user-images.githubusercontent.com/64766737/83323530-661c1080-a29a-11ea-8dd3-739f3a8edcfe.jpeg)
 
 
