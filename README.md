@@ -7,9 +7,13 @@ The Kit can Drag and Drop an object.
  BP_Placeable
  BP_ARPawn
  
- * Blueprint *
- BP_Placeable - Static Mesh can be import here. This is where most of the work is done.
  
+ * Blueprint *
+ 1. Level Blueprint - to show the mouse cursor when editting the project.
+ 
+ ![925C26B3-BB9D-403B-94D9-D8ADAA1389B3_1_105_c](https://user-images.githubusercontent.com/64766737/83485275-ab7e4f00-a4e1-11ea-92ea-217187abb7ae.jpeg)
+
+ 2. BP_Placeable - Static Mesh can be import here. This is where most of the work is done.
  ![90A5A30A-D8AC-4BA5-B3D3-5B636C885F6D_1_105_c](https://user-images.githubusercontent.com/64766737/83375755-e5305680-a40a-11ea-9328-19e27b555da3.jpeg)
 
  ![F38AF5D1-E280-4803-B8AA-E4D8E75C7A97_1_105_c](https://user-images.githubusercontent.com/64766737/83375387-af3ea280-a409-11ea-8728-a5161724da90.jpeg)
@@ -35,7 +39,7 @@ Youtube link:
 
 https://youtu.be/9oGVUw921-s
 
-Models create using Blender:
+Models created using Blender:
 
 ![glass](https://user-images.githubusercontent.com/64766737/83475702-d6f53f80-a4c9-11ea-9687-1441cf971d9e.png)
 ![Donut1](https://user-images.githubusercontent.com/64766737/83475705-d9579980-a4c9-11ea-9297-5ec60e58cd9b.png)
